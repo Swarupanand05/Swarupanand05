@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarupanand</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3850691-Web-Development-Illustration">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/41932818/file/original-e278cd051f54ad3262d79da1f0e8c7b3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarupanand05&label=Profile%20views&color=0e75b6&style=flat" alt="swarupanand05" /> </p>
 
