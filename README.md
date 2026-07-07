@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Swarupanand Bajbalkar</h1>
 <h3 align="center">B.Tech AI & ML Student | Aspiring Software Developer | .NET & AI Enthusiast</h3>
 
