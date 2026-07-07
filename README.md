@@ -73,29 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarupanand05&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarupanand05&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Swarupanand05&theme=tokyonight" />
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Swarupanand05&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -108,15 +85,7 @@
 
 ---
 
-## 💡 Current Goals
 
-- ✅ Become a .NET Full Stack Developer
-- ✅ Master Data Structures & Algorithms
-- ✅ Contribute to Open Source
-- ✅ Build AI-based Real World Projects
-- ✅ Secure a Software Development Internship
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
